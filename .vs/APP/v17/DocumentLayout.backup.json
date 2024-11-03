@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Ariel\\Desktop\\JUEGO\\APP\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00E56489-BA0B-4C1F-9AC4-A43D65806294}|APP\\APP.csproj|c:\\users\\ariel\\desktop\\juego\\app\\app\\app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{00E56489-BA0B-4C1F-9AC4-A43D65806294}|APP\\APP.csproj|solutionrelative:app\\app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "APP",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Desktop\\JUEGO\\APP\\APP\\APP.csproj",
+              "RelativeDocumentMoniker": "APP\\APP.csproj",
+              "ToolTip": "C:\\Users\\Ariel\\Desktop\\JUEGO\\APP\\APP\\APP.csproj",
+              "RelativeToolTip": "APP\\APP.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-03T13:13:50.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
